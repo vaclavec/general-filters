@@ -1,3 +1,5 @@
+! Desktop
+
 ! 2023-06-28 https://9anime.to
 ||s2.bunnycdn.ru/assets/_bnx/mangafire_7xx.gif$image
 
@@ -5,3 +7,10 @@
 ||s3.bunnycdn.ru/assets/_bnx/mangafire_7xx.gif$image
 ||s3.bunnycdn.ru/assets/_bnx/anix_7xx.gif$image
 
+! Mobile
+
+! 2023-06-30 https://fmovies.to
+||s3.bunnycdn.ru/assets/_bnx/mangafire_3xx.jpg$image
+
+! 2023-06-30 https://9anime.to
+||s2.bunnycdn.ru/assets/_bnx/mangafire_3xx.jpg$image
